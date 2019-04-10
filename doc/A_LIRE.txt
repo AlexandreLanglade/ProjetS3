@@ -1,0 +1,5 @@
+A partir du moment où l'affichage Gnuplot est lancé dans le programme, 
+les erreurs pouvant ponctuellement et aléatoirement apparaître 
+sont dûes à gnuplot et non au programme. 
+Généralement, relancer le programme suffira 
+à faire disparaitre le problème.
